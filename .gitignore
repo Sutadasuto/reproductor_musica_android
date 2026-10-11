@@ -1,0 +1,8 @@
+.gradle/
+.kotlin/
+.idea/
+.vscode/
+**/build/
+local.properties
+*.apk
+musica.png~
